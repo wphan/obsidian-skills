@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-skills",
+  "description": "Skills for creating and editing Obsidian-compatible files: Obsidian Flavored Markdown (.md), Obsidian Bases (.base), and JSON Canvas (.canvas)",
+  "author": {
+    "name": "kepano",
+    "url": "https://github.com/kepano"
+  }
+}

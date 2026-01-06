@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-skills",
+  "description": "Claude Code skills for creating and editing Obsidian-compatible files including Markdown, Bases, and JSON Canvas",
+  "owner": {
+    "name": "kepano",
+    "url": "https://github.com/kepano"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-skills",
+      "description": "Skills for Obsidian file formats: Obsidian Flavored Markdown (.md), Obsidian Bases (.base), and JSON Canvas (.canvas)",
+      "version": "1.0.0",
+      "category": "productivity",
+      "source": "./plugins/obsidian-skills",
+      "homepage": "https://github.com/kepano/obsidian-skills",
+      "tags": ["obsidian", "markdown", "canvas", "bases", "notes"]
+    }
+  ]
+}
